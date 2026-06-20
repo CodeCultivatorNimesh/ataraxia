@@ -71,7 +71,7 @@ requests==2.34.2
 rich==15.0.0
 rich-toolkit==0.20.1
 rsa==4.9.1
-scikit-learn==1.4.2
+scikit-learn==1.6.1
 scipy==1.17.1
 shellingham==1.5.4
 six==1.17.0
