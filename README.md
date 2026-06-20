@@ -14,7 +14,7 @@ broker integration (Alpaca + Binance), and psychological analytics.
 
 ## Requirements
 
-- Python 3.12+
+- Python > 3.12 and < 3.13
 - Node.js 18+
 - Docker Desktop (for PostgreSQL + Redis)
 - Alpaca API keys → https://alpaca.markets (free paper trading)
