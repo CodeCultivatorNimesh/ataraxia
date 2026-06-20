@@ -1,4 +1,4 @@
-# Trading Middleware — Phase 2 Backend
+# Trading Middleware
 
 Behavioral-risk-aware trading middleware bridge with candlestick pattern detection,
 broker integration (Alpaca + Binance), and psychological analytics.
